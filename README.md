@@ -13,6 +13,7 @@ The repo is structured as follows (change as needed):
 -   `01-raw_data` contains the raw data as obtained from [City of Toronto Open Data](https://open.toronto.ca/).
 -   `02-analysis_data` contains the cleaned datasets that were constructed.
 -   `03-table_data` contains formatted data tables used to generate Quarto outputs.
+-   `04-project_proposal` contains the mini project proposal, research overview, planned datasets, and notes related to the network analysis of government contractors and policymakers.
 
 ### `scripts/`  
 -   `00.0-run_pipeline.py` executes the entire data processing pipeline from simulation to final outputs.
